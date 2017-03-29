@@ -19,7 +19,7 @@ Kodi will be used as the main interface and some python scripts will run in the 
 
 ## Cabling schema
 
-![Alt text](/screenshots/schema.jpg?raw=true "Cabling schema")
+![Alt text](/screenshots/schema.png?raw=true "Cabling schema")
 
 
 ## Requirements
